@@ -142,8 +142,10 @@ var besyuzdenkucuksayilar = sayilar.filter((sayi) => sayi < 500);
 console.log(besyuzdenkucuksayilar);
 
 //3e çözümü
-
-/* kodlar buraya */
+var siralisayilar = [];
+var besyuzdenkucuksayilar = sayilar.filter((sayi) => sayi < 500);
+var siralisayilar = besyuzdenkucuksayilar.sort((a, b) => a - b);
+console.log(siralisayilar);
 
 //3f çözümü
 
