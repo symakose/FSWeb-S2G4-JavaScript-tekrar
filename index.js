@@ -149,8 +149,6 @@ console.log(siralisayilar);
 
 //3f çözümü
 
-/* kodlar buraya */
-
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
 function sa() {
   console.log("Kodlar çalışıyor");
